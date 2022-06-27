@@ -3,7 +3,7 @@ A trading bot built with Python
 
 # Installation
 
-pip install coinex.py
+> pip install coinex.py
 
 # How to use?
 
@@ -11,7 +11,7 @@ It is generally recommended to be used in in shallow markets with low volatility
 
 # Configuration
 
-Signup for Coinex
+[Signup](https://www.coinex.com/register?refer_code=wk54m) for Coinex
 
 Enable Two-factor Authentication
 
@@ -23,5 +23,7 @@ Get an API and Secret Key, insert into config.py
 
 # Support
 
-https://www.coinex.com/register?refer_code=wk54m
 
+**CET Adress:**
+
+0xf079253745134582c3843c4b3703fac1d990c0ae
