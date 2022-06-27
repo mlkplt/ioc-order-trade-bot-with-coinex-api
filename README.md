@@ -1,7 +1,7 @@
 # ioc order trade bot with coinex api
 A trading bot built with Python
 
-# Installations
+# Installation
 
 pip install coinex.py
 
